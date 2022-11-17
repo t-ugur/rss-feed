@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<rss version="0.91">"
+    <channel>
+        <title>Fachschaftsrat Psychologie UHH</title>
+        <description>Der Feed des Fachschaftrats der Psychologie an der Uni Hamburg.</description>
+        <language>de</language>
+        <link></link>
+        <image></image>
+
+        <item>
+            <title>Der erste Feed Post!</title>
+            <pubDate>Thu, 17 Nov 2022</pubDate>
+            <description>Hier ist die Beschriebung zu dem Event...</description>
+            <link></link>
+        </item>
+
+        <item>
+            <title>Test1!</title>
+            <pubDate>Thu, 17 Nov 2022</pubDate>
+            <description>Hier ist die Beschriebung zu Test 1...</description>
+            <link></link>
+        </item>
+
+        <item>
+            <title>Test2!</title>
+            <pubDate>Thu, 17 Nov 2022</pubDate>
+            <description>Hier ist die Beschriebung zu Test 2...</description>
+            <link></link>
+        </item>
+
+        <item>
+            <title>Test3!</title>
+            <pubDate>Thu, 17 Nov 2022</pubDate>
+            <description>Hier ist die Beschriebung zu Test 3...</description>
+            <link></link>
+        </item>
+
+        <item>
+            <title>Test4!</title>
+            <pubDate>Thu, 17 Nov 2022</pubDate>
+            <description>Hier ist die Beschriebung zu Test 4...</description>
+            <link></link>
+        </item>
+
+        <item>
+            <title>Test5!</title>
+            <pubDate>Thu, 17 Nov 2022</pubDate>
+            <description>Hier ist die Beschriebung zu Test 5...</description>
+            <link></link>
+        </item>
+
+    </channel>
+</rss>
