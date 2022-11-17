@@ -2,7 +2,7 @@
 
 <rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" version="2.0">
     <channel>
-        <title>netcup Sonderangebote</title>
+        <title>FSR UHH Psychologie</title>
         <atom:link href="https://t-ugur.github.io/rss-feed/rss.xml" rel="self" type="application/rss+xml"/>
         <link>https://www.psy.uni-hamburg.de/ueber-das-institut/fachschaftsrat.html</link>
         <description>FSR PSY UHH</description>
@@ -15,7 +15,7 @@
             <title>Erster Feed Post!</title>
             <link></link>
             <dc:creator></dc:creator>
-            <pubDate>Tue, 25 Oct 2022 08:00:52 +0000</pubDate>
+            <pubDate>Thu, 17 Nov 2022</pubDate>
             <category></category>
             <description>
                 Erster Test Feed.
@@ -31,7 +31,7 @@
             <title>Test1!</title>
             <link></link>
             <dc:creator></dc:creator>
-            <pubDate>Tue, 25 Oct 2022 08:00:52 +0000</pubDate>
+            <pubDate>Thu, 17 Nov 2022</pubDate>
             <category></category>
             <description>
                 Test1.
@@ -47,7 +47,7 @@
             <title>Test2!</title>
             <link></link>
             <dc:creator></dc:creator>
-            <pubDate>Tue, 25 Oct 2022 08:00:52 +0000</pubDate>
+            <pubDate>Thu, 17 Nov 2022</pubDate>
             <category></category>
             <description>
                 Test2.
@@ -63,7 +63,7 @@
             <title>Test3!</title>
             <link></link>
             <dc:creator></dc:creator>
-            <pubDate>Tue, 25 Oct 2022 08:00:52 +0000</pubDate>
+            <pubDate>Thu, 17 Nov 2022</pubDate>
             <category></category>
             <description>
                 Test3.
@@ -79,7 +79,7 @@
             <title>Test4!</title>
             <link></link>
             <dc:creator></dc:creator>
-            <pubDate>Tue, 25 Oct 2022 08:00:52 +0000</pubDate>
+            <pubDate>Thu, 17 Nov 2022</pubDate>
             <category></category>
             <description>
                 Test4.
