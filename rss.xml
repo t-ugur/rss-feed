@@ -1,53 +1,94 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 
-<rss version="0.91">"
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" version="2.0">
     <channel>
-        <title>Fachschaftsrat Psychologie UHH</title>
-        <description>Der Feed des Fachschaftrats der Psychologie an der Uni Hamburg.</description>
-        <language>de</language>
-        <link></link>
-        <image></image>
+        <title>netcup Sonderangebote</title>
+        <atom:link href="https://t-ugur.github.io/rss-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <link>https://www.psy.uni-hamburg.de/ueber-das-institut/fachschaftsrat.html</link>
+        <description>FSR PSY UHH</description>
+        <lastBuildDate>Thu, 17 Nov 2022</lastBuildDate>
+        <language>de-DE</language>
+        <sy:updatePeriod>hourly</sy:updatePeriod>
+        <sy:updateFrequency>1</sy:updateFrequency>
 
         <item>
-            <title>Der erste Feed Post!</title>
-            <pubDate>Thu, 17 Nov 2022</pubDate>
-            <description>Hier ist die Beschriebung zu dem Event...</description>
+            <title>Erster Feed Post!</title>
             <link></link>
+            <dc:creator></dc:creator>
+            <pubDate>Tue, 25 Oct 2022 08:00:52 +0000</pubDate>
+            <category></category>
+            <description>
+                Erster Test Feed.
+            </description>
+            <content:encoded>
+                <p><strong>Das ist der erste Test Feed!</strong></p>
+                <p>Lorem Ipsum.</p>
+                <p>123.</p>
+            </content:encoded>
         </item>
 
         <item>
             <title>Test1!</title>
-            <pubDate>Thu, 17 Nov 2022</pubDate>
-            <description>Hier ist die Beschriebung zu Test 1...</description>
             <link></link>
+            <dc:creator></dc:creator>
+            <pubDate>Tue, 25 Oct 2022 08:00:52 +0000</pubDate>
+            <category></category>
+            <description>
+                Test1.
+            </description>
+            <content:encoded>
+                <p><strong>Das ist Test1!</strong></p>
+                <p>Lorem Ipsum.</p>
+                <p>123.</p>
+            </content:encoded>
         </item>
 
         <item>
             <title>Test2!</title>
-            <pubDate>Thu, 17 Nov 2022</pubDate>
-            <description>Hier ist die Beschriebung zu Test 2...</description>
             <link></link>
+            <dc:creator></dc:creator>
+            <pubDate>Tue, 25 Oct 2022 08:00:52 +0000</pubDate>
+            <category></category>
+            <description>
+                Test2.
+            </description>
+            <content:encoded>
+                <p><strong>Das ist Test2!</strong></p>
+                <p>Lorem Ipsum.</p>
+                <p>123.</p>
+            </content:encoded>
         </item>
 
         <item>
             <title>Test3!</title>
-            <pubDate>Thu, 17 Nov 2022</pubDate>
-            <description>Hier ist die Beschriebung zu Test 3...</description>
             <link></link>
+            <dc:creator></dc:creator>
+            <pubDate>Tue, 25 Oct 2022 08:00:52 +0000</pubDate>
+            <category></category>
+            <description>
+                Test3.
+            </description>
+            <content:encoded>
+                <p><strong>Das ist Test3!</strong></p>
+                <p>Lorem Ipsum.</p>
+                <p>123.</p>
+            </content:encoded>
         </item>
 
         <item>
             <title>Test4!</title>
-            <pubDate>Thu, 17 Nov 2022</pubDate>
-            <description>Hier ist die Beschriebung zu Test 4...</description>
             <link></link>
-        </item>
-
-        <item>
-            <title>Test5!</title>
-            <pubDate>Thu, 17 Nov 2022</pubDate>
-            <description>Hier ist die Beschriebung zu Test 5...</description>
-            <link></link>
+            <dc:creator></dc:creator>
+            <pubDate>Tue, 25 Oct 2022 08:00:52 +0000</pubDate>
+            <category></category>
+            <description>
+                Test4.
+            </description>
+            <content:encoded>
+                <p><strong>Das ist Test4!</strong></p>
+                <p>Lorem Ipsum.</p>
+                <p>123.</p>
+            </content:encoded>
         </item>
 
     </channel>
